@@ -1,7 +1,7 @@
 {
-  "name": "x-frame-bypass",
-  "version": "1.0.2",
-  "description": "Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin",
+  "name": "dumo-xfb",
+  "version": "1.0.3",
+  "description": "Bypassing Iframe restrictions. Originally made by niu tech",
   "main": "x-frame-bypass.js",
   "keywords": [
     "iframe",
@@ -10,8 +10,8 @@
 	"web-components",
 	"custom-elements"
   ],
-  "author": "niu tech",
-  "homepage": "https://github.com/niutech/x-frame-bypass",
-  "repository": "github:niutech/x-frame-bypass",
+  "author": "dumo178",
+  "homepage": "https://github.com/thepython555/dumo-xfb",
+  "repository": "github:thepython555/dumo-xfb",
   "license": "Apache-2.0"
 }
